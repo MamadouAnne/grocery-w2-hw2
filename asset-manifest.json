@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MamadouAnne/grocery-w2-hw2.git/static/css/main.5c6fde60.chunk.css",
+    "main.js": "/MamadouAnne/grocery-w2-hw2.git/static/js/main.2a91779c.chunk.js",
+    "main.js.map": "/MamadouAnne/grocery-w2-hw2.git/static/js/main.2a91779c.chunk.js.map",
+    "runtime-main.js": "/MamadouAnne/grocery-w2-hw2.git/static/js/runtime-main.bb17d375.js",
+    "runtime-main.js.map": "/MamadouAnne/grocery-w2-hw2.git/static/js/runtime-main.bb17d375.js.map",
+    "static/css/2.8938a2ac.chunk.css": "/MamadouAnne/grocery-w2-hw2.git/static/css/2.8938a2ac.chunk.css",
+    "static/js/2.d1c7b2c6.chunk.js": "/MamadouAnne/grocery-w2-hw2.git/static/js/2.d1c7b2c6.chunk.js",
+    "static/js/2.d1c7b2c6.chunk.js.map": "/MamadouAnne/grocery-w2-hw2.git/static/js/2.d1c7b2c6.chunk.js.map",
+    "static/js/3.d09c824f.chunk.js": "/MamadouAnne/grocery-w2-hw2.git/static/js/3.d09c824f.chunk.js",
+    "static/js/3.d09c824f.chunk.js.map": "/MamadouAnne/grocery-w2-hw2.git/static/js/3.d09c824f.chunk.js.map",
+    "index.html": "/MamadouAnne/grocery-w2-hw2.git/index.html",
+    "static/css/2.8938a2ac.chunk.css.map": "/MamadouAnne/grocery-w2-hw2.git/static/css/2.8938a2ac.chunk.css.map",
+    "static/css/main.5c6fde60.chunk.css.map": "/MamadouAnne/grocery-w2-hw2.git/static/css/main.5c6fde60.chunk.css.map",
+    "static/js/2.d1c7b2c6.chunk.js.LICENSE.txt": "/MamadouAnne/grocery-w2-hw2.git/static/js/2.d1c7b2c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb17d375.js",
+    "static/css/2.8938a2ac.chunk.css",
+    "static/js/2.d1c7b2c6.chunk.js",
+    "static/css/main.5c6fde60.chunk.css",
+    "static/js/main.2a91779c.chunk.js"
+  ]
+}
